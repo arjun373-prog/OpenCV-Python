@@ -1,0 +1,8 @@
+-> Digital images are typically stored in a matrix
+There are two types of digital images 
+1. Grey scale images [ Each pixel represents intensity of only one shade i.e, how bright or dark the pixel is( means it has only one channel) ]
+2. Colored images[ In colored images we have three channels(Red Green Blue)]
+
+-->Numpy
+Numpy is a highly optimized library for numerical operations
+Array struture is important because digital images are 2D arrays of PIXELS.
